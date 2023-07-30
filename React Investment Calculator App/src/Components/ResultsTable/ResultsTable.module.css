@@ -1,0 +1,28 @@
+.result {
+  max-width: 50rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  table-layout: fixed;
+  border-spacing: 1rem;
+  text-align: right;
+  color: #e1eeeb;
+  background: linear-gradient(0deg, #311c5f, #010a33);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  border: 1px solid #2c3e50;
+}
+
+.result thead {
+  font-size: 0.9rem;
+  color: #83e6c0;
+}
+
+.result tbody {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 0.9rem;
+  color: #83e6c0;
+}
+
+/* .result td, .result th {
+  padding: 1rem;
+} */

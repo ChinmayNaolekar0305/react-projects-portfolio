@@ -1,0 +1,11 @@
+.chart {
+  padding: 2rem;
+  background: linear-gradient(0deg, #311c5f, #010a33);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
+  color: #ffffff;
+  margin: 20px 0;
+  border: 1px solid #2c3e50;
+  max-width: 90%;
+  margin: 2rem auto;
+}
