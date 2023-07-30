@@ -13,7 +13,8 @@ This is a React-based investment app that helps users plan their investments and
 
 ## Demo
 
-![Screenshot of My App](./React Investment Calculator App/Appscreenshot.png)
+![Screenshot of My App](./React%20Investment%20Calculator%20App/Appscreenshot.png)
+
 
 [Watch the Demo Video](https://youtu.be/your-video-id)
 
