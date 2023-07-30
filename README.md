@@ -18,10 +18,6 @@ This is a React-based investment app that helps users plan their investments and
 ![Screenshot of My App](./React%20Investment%20Calculator%20App/Appscreenshot2.png)
 
 
-
-
-[Watch the Demo Video](https://youtu.be/your-video-id)
-
 ## Usage
 
 To run this app locally, you need Node.js and npm installed on your system. 
